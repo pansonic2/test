@@ -11,7 +11,7 @@
 .wrapper > div {
    #border-bottom: 1px solid;
   
-  padding: 1em;
+  padding-bottom: 1em;
 
   font-family: 'Helvetica', monospace;
   text-align: center;
@@ -137,7 +137,16 @@ h1 {
   border-top: 1px solid;
 }
 
+.roombaPic {
+  background-image: url('IMG_0911_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
 a {
  text-align: center;
+ padding-bottom: 1em;
 }
 

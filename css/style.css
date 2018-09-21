@@ -147,6 +147,16 @@ h1 {
   border-top: 1px solid;
 }
 
+
+.triaPic {
+  background-image: url('tria_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+
 a {
  text-align: center;
  padding-bottom: 1em;

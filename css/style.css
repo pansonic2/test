@@ -23,7 +23,17 @@ h1 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 2em;
   text-align: center;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px;
+  margin-top: -0.15em;
+  margin-left: -0.25em;
+
 }
+
+
 
 .printerPic {
   background-image: url('IMG_8486_optimized.jpg');
@@ -150,6 +160,14 @@ h1 {
 
 .triaPic {
   background-image: url('tria_optimized.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.curlingIronPic {
+  background-image: url('curlingIron_optimized.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 1080px;

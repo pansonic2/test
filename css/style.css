@@ -52,7 +52,8 @@ h1 {
 
 
 .margaritaPic {
-  background-image: url('IMG_8482_optimized.jpg');
+  background-image: url('MargaritaGif.gif');
+
     background-repeat: no-repeat;
   background-position: center;
   height: 1080px;
@@ -174,6 +175,21 @@ h1 {
   border-top: 1px solid;
 }
 
+.modemPic {
+  background-image: url('modem500.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
+
+.altimaPic {
+  background-image: url('altima.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 1080px;
+  border-top: 1px solid;
+}
 
 a {
  text-align: center;

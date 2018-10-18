@@ -191,6 +191,14 @@ h1 {
   border-top: 1px solid;
 }
 
+.grinderPic {
+  background-image: url('grinder.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  height: 640px;
+  border-top: 1px solid;
+}
+
 a {
  text-align: center;
  padding-bottom: 1em;

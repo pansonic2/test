@@ -35,8 +35,8 @@ h1 {
 
 
 
-.printerPic {
-  background-image: url('IMG_8486_optimized.jpg');
+.houstonPic {
+  background-image: url('houston.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
@@ -51,8 +51,8 @@ h1 {
 }
 
 
-.margaritaPic {
-  background-image: url('IMG_8491_optimized1.jpg');
+.munichPic {
+  background-image: url('munich.jpg');
 
     background-repeat: no-repeat;
   background-position: center;
@@ -60,8 +60,8 @@ h1 {
   border-top: 1px solid;
 }
 
-.keurigPic {
-  background-image: url('IMG_8517_optimized.jpg');
+.moscowPic {
+  background-image: url('moscow.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
@@ -69,8 +69,8 @@ h1 {
 }
 
 
-.nespressoPic {
-  background-image: url('IMG_8518_optimized.jpg');
+.sheremPic {
+  background-image: url('sherem.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
@@ -78,80 +78,48 @@ h1 {
 }
 
 
-.toasterPic {
-  background-image: url('IMG_8495_optimized.jpg');
+.hotelviewPic {
+  background-image: url('hotelview.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
   border-top: 1px solid;
 }
 
-.foodProcessorPic {
-  background-image: url('81bQvF2J2yL._SL1500_.jpg');
+.seaPic {
+  background-image: url('sea.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
   border-top: 1px solid;
 }
 
-.samsungPic {
-  background-image: url('71DZgSRihaL._SL1500_.jpg');
+.sunnyPic {
+  background-image: url('sunny.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
   border-top: 1px solid;
 }
 
-.wafflePic {
-  background-image: url('81IrZsP1aqS._SL1500_.jpg');
+.cityviewPic {
+  background-image: url('cityview.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
   border-top: 1px solid;
 }
 
-.shredderPic {
-  background-image: url('IMG_8504_optimized.jpg');
+.cafePic {
+  background-image: url('cafe.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
   border-top: 1px solid;
 }
 
-.winePic {
-  background-image: url('IMG_8499_optimized.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
-
-.steamerPic {
-  background-image: url('IMG_8513_optimized.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
-
-.garminPic {
-  background-image: url('81V6ZYbpkiL._SL1500_.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
-
-.footSpaPic {
-  background-image: url('IMG_8521_optimized.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
-
-.roombaPic {
-  background-image: url('IMG_0911_optimized.jpg');
+.aktauPic {
+  background-image: url('aktau.jpg');
     background-repeat: no-repeat;
   background-position: center;
   height: 640px;
@@ -159,45 +127,24 @@ h1 {
 }
 
 
-.triaPic {
-  background-image: url('tria_optimized.jpg');
+
+.leftKPic {
+  background-image: url('leftK.jpg');
     background-repeat: no-repeat;
   background-position: center;
-  height: 640px;
+  height: 350px;
   border-top: 1px solid;
 }
 
-.curlingIronPic {
-  background-image: url('curlingIron_optimized.jpg');
+.timelapsePic {
+  background-image: url('timelapse.gif');
     background-repeat: no-repeat;
   background-position: center;
-  height: 640px;
+  height: 350px;
   border-top: 1px solid;
 }
 
-.modemPic {
-  background-image: url('modem500.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
 
-.altimaPic {
-  background-image: url('altima.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
-
-.grinderPic {
-  background-image: url('grinder.jpg');
-    background-repeat: no-repeat;
-  background-position: center;
-  height: 640px;
-  border-top: 1px solid;
-}
 
 a {
  text-align: center;
